@@ -106,10 +106,11 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		*/
-		background-image: url("images/bg.jpg"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		/*background-image: url("images/bg.jpg"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);*/
 		background-image: url("images/bg.jpg"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/bg.jpg"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/bg.jpg"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		/*background-image: url("images/bg.jpg"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/bg.jpg"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);*/
+		background-attachment: fixed;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2262,7 +2263,7 @@ input, select, textarea {
 		}
 
 		.icon.major {
-			border: solid 1px;
+			border: solid 3px;
 			display: inline-block;
 			border-radius: 100%;
 			padding: 0.65em;
@@ -2277,7 +2278,7 @@ input, select, textarea {
 				height: 2.25em;
 				line-height: 2.2em;
 				border-radius: 100%;
-				border: solid 1px;
+				border: solid 2px;
 				text-align: center;
 			}
 
