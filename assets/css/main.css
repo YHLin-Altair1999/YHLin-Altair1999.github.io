@@ -2866,6 +2866,73 @@ input, select, textarea {
 
 		}
 
+/* Features 4 cols*/
+
+.features4 {
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	-moz-flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
+	width: calc(100% + 2em);
+	margin: 0 0 3em -2em;
+	padding: 0;
+	list-style: none;
+}
+
+	.features4 li {
+		width: calc(25.00000% - 2em);
+		margin-left: 2em;
+		margin-top: 3em;
+		padding: 0;
+	}
+
+		.features4 li:nth-child(1), .features4 li:nth-child(2), .features4 li:nth-child(3), .features4 li:nth-child(4) {
+			margin-top: 0;
+		}
+
+		.features4 li > :last-child {
+			margin-bottom: 0;
+		}
+
+	@media screen and (max-width: 980px) {
+
+		.features4 li {
+			width: calc(50% - 2em);
+		}
+
+			.features4 li:nth-child(4) {
+				margin-top: 3em;
+			}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.features4 {
+			width: 100%;
+			margin: 0 0 2em 0;
+		}
+
+			.features4 li {
+				width: 100%;
+				margin-left: 0;
+				margin-top: 2em;
+			}
+
+				.features4 li:nth-child(2), .features4 li:nth-child(3) {
+					margin-top: 2em;
+				}
+
+	}
+
 /* Statistics */
 
 	.statistics {
