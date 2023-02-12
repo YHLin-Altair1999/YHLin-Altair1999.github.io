@@ -23,6 +23,17 @@
 						<p>Some simulations/codes I developed/performed for fun and curiosity.</p>
 					</header>
 
+					<nav id="nav">
+						<ul>
+							<li><a href="#CR3BP" class="active">CR3BP</a></li>
+							<li><a href="#Ballistic_Missile">Ballistic Missile</a></li>
+							<li><a href="#FLASH">FLASH</a></li>
+							<li><a href="#Corona">Corona</a></li>
+							<li><a href="#LightSail">Light Sail</a></li>
+							<li><a href="#Schrodinger">Schrodinger Equation</a></li>
+						</ul>
+					</nav>
+
 				<!-- Main -->
 					<div id="main">
 
@@ -30,8 +41,8 @@
 							<section id="content" class="main">
 
 								<!-- Text -->
-									<section>
-										<h2>Restricted three-body problem</h2>
+									<section id="CR3BP">
+										<h2>Circular Restricted 3-body Problem (CR3BP)</h2>
                                         <p>I developed this code in the co-rotating frame of the restricted three-body with circular orbit to test my understanding of orbital dynamics and non-inertial frame. See my <a href="https://github.com/CFP106020008/Lagrange_Points">Github</a> for more details about the code.</p>
                                         <h3>Distant Retrograde Orbit (DRO)</h3>
 										<p>DRO is a family of stable orbits around a secondary body in a three body system. Recently famous for being used by Orion spacecraft in the Artemis I mission.</p>
@@ -55,7 +66,7 @@
 										</center>
 									</section>
 
-									<section>
+									<section id="Ballistic_Missile">
 										<h2>Ballistic Missile Simulation</h2>
                                         <p>In this work, I aim to simulate the trajectory of ballistic missles (or anything else that shares similar physics such as sub-orbital spaceflight and re-entry vehicles) cause I found so many people in Taiwan have no idea how they work. This simulation includes the effects of rocket equation, orbital mechanics and atmospheric drag with a somewhat realistic density profile. Check my <a href="https://github.com/CFP106020008/Ballistic_Missile_Simulation">Github</a> for more details!</p>
                                         <video width="100%" height="100%" controls>
@@ -65,7 +76,7 @@
 										<p></p>
 									</section>
 
-									<section>
+									<section id="FLASH">
 										<h2>Play around with FLASH</h2>
                                         <p>Beside my main research topic, I also use <a href="https://flash.rochester.edu/site/index.shtml">FLASH</a> to simulate whatever I found interesting.</p>
 										<h3>FlatPlate Simulation</h3>
@@ -89,7 +100,7 @@
 										<p>The software used in these work was developed in part by the DOE NNSA- and DOE Office of Science-supported Flash Center for Computational Science at the University of Chicago and the University of Rochester. These work used high-performance computing facilities operated by the Center for Informatics and Computation in Astronomy (CICA) at National Tsing Hua University. This equipment was funded by the Ministry of Education of Taiwan, the National Science and Technology Council of Taiwan, and National Tsing Hua University.</p>
 									</section>
 
-									<section>
+									<section id="Corona">
 										<h2><a href="https://github.com/CFP106020008/Atmospheric_Corona">Atmospheric Corona</a></h2>
                                         <p>Corona forms when sun/moon light is diffracted by the small water droplet in the sky. The resulting PSF should be an Airy disk. In the code, we first convolve the source function (a disk with diameter of 0.5 degree) with Airy kernal. Then we integrate the resulting monochromatic image over wavelength and eventually create RGB image. We do not really consider the transmission curve of any DSLR and the responce function of the human eyes. Nonetheless, current results looks surprisingly good.</p>
                                         <center>
@@ -99,13 +110,48 @@
 										<p></p>
 									</section>
 
-									<section>
+									<section id="LightSail">
 										<h2><a href="https://github.com/CFP106020008/Light-Sail-Simulation">Light Sail Simulation</a></h2>
                                         <p>Light sail is one of the most promising technology that could accelerate spacecraft to a significant portion of the light speed. In this work, I simulate the trajectory of a solar sail (accelerated by solar radiation pressure).</p>
                                         <video width="100%" height="100%" controls>
                                             <source src="./videos/light_sail.mp4" type="video/mp4">
                                             Something's wrong!
                                         </video>
+										<p></p>
+									</section>
+									<section id="Schrodinger">
+										<h2>1D Schrodinger Equation</h2>
+                                        <p>Schrodinger equation describes the behavior of wave function in the non-relativistic regime and is one of the most important foundation of quantum mechanics. This code aims to demonstrate the behavior of wave function under different potential and initial momentum.</p>
+										<center>
+											<video width="100%" height="100%" controls>
+												<source src="./videos/Phi_Harmonic.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<p>Gaussian wave packet in a harmonic potential.</p>
+											<video width="100%" height="100%" controls>
+												<source src="./videos/Bounded_Standing.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<p>Gaussian wave packet diffuse in a finite potential well and creates standing waves.</p>
+											<video width="49%" height="49%" controls>
+												<source src="./videos/Bounded_Gaussian_Slow.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<video width="49%" height="49%" controls>
+												<source src="./videos/Bounded_Gaussian_Fast.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<p>Gaussian wave packet in a finite potential well with different initial momentum.</p>
+											<video width="49%" height="49%" controls>
+												<source src="./videos/Tunneling.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<video width="49%" height="49%" controls>
+												<source src="./videos/Scattering.mp4" type="video/mp4">
+												Something's wrong!
+											</video>
+											<p>Tunneling (left) and scattering (right) of wave function.</p>
+										</center>
 										<p></p>
 									</section>
 
