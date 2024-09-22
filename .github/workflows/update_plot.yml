@@ -37,6 +37,8 @@ jobs:
           cd observations
           python Make_ObserveTable.py
           python Make_BarChart.py
+          python Make_RankTable.py
+          python Make_RankPlot.py
           cd ..
 
       # Commit and push the updated plot
