@@ -37,7 +37,6 @@ Author:
 
 from bs4 import BeautifulSoup
 import pandas as pd
-import re
 import requests
 
 # URL of the web page you want to download
