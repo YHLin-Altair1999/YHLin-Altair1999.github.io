@@ -17,8 +17,8 @@ import numpy as np
 from datetime import datetime
 
 # Set LaTeX rendering and font for plots
-plt.rcParams.update({"text.usetex": True})
-plt.rcParams['font.family'] = 'STIXGeneral'
+#plt.rcParams.update({"text.usetex": True})
+#plt.rcParams['font.family'] = 'STIXGeneral'
 
 
 class TransitObservationAnalysis:
@@ -106,7 +106,7 @@ class TransitObservationAnalysis:
 
         # Set plot title and axis labels
         current_date = datetime.now().strftime("%Y-%m-%d")
-        ax.set_title(f'Accumulated Number of TOP ExoClock Observations by Observatory Type ({current_date})')
+        ax.set_title(f'Accumulated Number of TOP ExoClock Observations ({current_date})')
         ax.set_ylabel('Accumulated Number of Observations')
 
         # Adjust x-axis ticks and labels
@@ -122,7 +122,7 @@ class TransitObservationAnalysis:
         plt.tight_layout()
 
         # Save the plot
-        fig.savefig("Transit_statistics.png", dpi=300)
+        fig.savefig("ExoClock_TransitStatistics.png", dpi=300)
 
 
 # Usage example

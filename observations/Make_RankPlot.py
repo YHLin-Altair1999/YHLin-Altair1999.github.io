@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-plt.rcParams.update({"text.usetex": True})
-plt.rcParams['font.family'] = 'STIXGeneral'
+#plt.rcParams.update({"text.usetex": True})
+#plt.rcParams['font.family'] = 'STIXGeneral'
 
 # Sample DataFrame
 df = pd.read_excel('Exoclock.xlsx', names=['Name', 'Observations'])

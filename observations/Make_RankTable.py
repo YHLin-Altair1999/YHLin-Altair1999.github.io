@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 url = "https://www.exoclock.space/database/observations_by_observer"
 fname_html = 'Exoclock.html'
 fname_xlsx = 'Exoclock.xlsx'
-'''
+
 # Send an HTTP GET request to the URL
 response = requests.get(url)
 
@@ -24,7 +24,7 @@ if response.status_code == 200:
     print(f"HTML file downloaded and saved as {fname_html}")
 else:
     print(f"Failed to download the HTML. Status code: {response.status_code}")
-'''
+
 file_path = 'Exoclock.html'  # Replace 'your_data.txt' with the actual file path
 with open(file_path, 'r', encoding="utf-8") as file:
     data = file.read()
