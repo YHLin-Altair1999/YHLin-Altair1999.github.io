@@ -46,6 +46,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/plot.png
+          git add ./observations/Exoclock_ObserverRank.png
+          git add ./observations/ExoClock_TransitStatistics.png
           git commit -m 'Update plot [skip ci]' || echo "No changes to commit"
           git push
