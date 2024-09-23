@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 url = "https://www.exoclock.space/database/observations_by_observer"
 fname_html = 'Exoclock.html'
 fname_xlsx = 'Exoclock.xlsx'
-
+'''
 # Send an HTTP GET request to the URL
 response = requests.get(url)
 
@@ -24,7 +24,7 @@ if response.status_code == 200:
     print(f"HTML file downloaded and saved as {fname_html}")
 else:
     print(f"Failed to download the HTML. Status code: {response.status_code}")
-
+'''
 file_path = 'Exoclock.html'  # Replace 'your_data.txt' with the actual file path
 with open(file_path, 'r', encoding="utf-8") as file:
     data = file.read()
@@ -41,7 +41,11 @@ for bullet_point in bullet_points[1:]:
     # Extract name and observations from the bullet points
     bullet_point = BeautifulSoup(bullet_point, 'lxml')
     name = bullet_point.find('a', style="padding-bottom:10px; color:#C46127").get_text()
-    observation = float(re.search(r'([\d.]+)\s*Observation\(s\)', str(bullet_point)).group(1))
+    #observation = float(re.search(r'([\d.]+)\s*Observation\(s\)', str(bullet_point)).group(1))
+    #text_content = bullet_point.get_text()
+    #obs_text = text_content.split("Observation(s)")[0].strip()
+    #print(obs_text)
+    observation = float(str(bullet_point).split('<br/>')[1].split(' ')[0])
     names.append(name)
     observations.append(observation)
 
@@ -50,7 +54,7 @@ data = {'Name': names, 'Observations': observations}
 df = pd.DataFrame(data)
 df.to_excel(fname_xlsx, index=False, header = False, engine='openpyxl')
 print(f"Observer statistics in now stored in {fname_xlsx}.")
-
+'''
 # Sort the DataFrame by the number of observations in descending order
 df = df.sort_values(by='Observations', ascending=False)
 
@@ -71,3 +75,4 @@ ax.set_yscale('log')
 ax.legend()
 plt.tight_layout()
 fig.savefig('Exoclock_ObservationStatistics.png', dpi=300)
+'''
