@@ -5,3 +5,5 @@ bs4
 datetime
 requests
 openpyxl
+beautifulsoup4
+lxml
