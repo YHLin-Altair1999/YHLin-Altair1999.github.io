@@ -106,7 +106,7 @@ class TransitObservationAnalysis:
 
         # Set plot title and axis labels
         current_date = datetime.now().strftime("%Y-%m-%d")
-        ax.set_title(f'Accumulated Number of TOP ExoClock Observations ({current_date})')
+        ax.set_title(f'TOP ExoClock Observations ({current_date}, {int(bottom.iloc[-1])} obs.)')
         ax.set_ylabel('Accumulated Number of Observations')
 
         # Adjust x-axis ticks and labels
