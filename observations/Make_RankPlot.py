@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
+import numpy as np
 
 #plt.rcParams.update({"text.usetex": True})
 #plt.rcParams['font.family'] = 'STIXGeneral'
@@ -27,6 +28,11 @@ ax.set_xlim(0, yen_hsing_lin_rank*1.1)
 ax.set_xlabel('Rank')
 ax.set_ylabel('Number of Observations')
 ax.set_title(f'ExoClock Observer Rank ({datetime.now().strftime("%Y-%m-%d")})')
+
+# Set integer x-ticks
+max_rank = int(yen_hsing_lin_rank+2)
+ax.set_xticks(np.arange(0, max_rank+1, max(1, max_rank//10)))
+ax.xaxis.set_major_locator(plt.MaxNLocator(integer=True))
 # Show the plot
 #ax.set_yscale('log')
 plt.legend()
