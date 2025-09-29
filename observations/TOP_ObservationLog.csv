@@ -23,8 +23,8 @@ Qatar-6b,2023-05-26,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/da
 CoRoT-11b,2023-05-27,Wen-Hsin Chen,NTHU Observatory,https://www.exoclock.space/database/observations/CoRoT-11b_2854_2023-05-27_whchen_1329_Lum
 HAT-P-2b,2023-05-29,Mu-Chen Hsieh,NTHU Observatory,https://www.exoclock.space/database/observations/HAT-P-2b_1517_2023-05-29_JerryHsieh_1377_R
 TrES-3b,2023-05-30,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/TrES-3b_6545_2023-05-30_Altair1999_1323_Lum
-Qatar-1b,2023-07-06,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/Qatar-1b_6047_2023-07-06_Altair1999_1323_Lum
 WASP-90b,2023-07-06,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-90b_2192_2023-07-06_Altair1999_1323_Lum
+Qatar-1b,2023-07-06,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/Qatar-1b_6047_2023-07-06_Altair1999_1323_Lum
 HATS-50b,2023-07-07,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/HATS-50b_2242_2023-07-07_Altair1999_1323_Lum
 TrES-3b,2023-07-08,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/TrES-3b_6575_2023-07-08_Altair1999_1323_Lum
 WASP-80b,2023-07-15,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-80b_2802_2023-07-15_Altair1999_1323_Lum
@@ -38,8 +38,8 @@ WASP-12b,2023-11-05,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/da
 WASP-12b,2023-11-17,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-12b_7990_2023-11-17_Altair1999_1589_Lum
 HAT-P-62b,2023-11-17,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/HAT-P-62b_3296_2023-11-17_Altair1999_1568_Clear
 WASP-10b,2023-11-19,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/WASP-10b_2820_2023-11-19_Altair1999_1568_Clear
-EPIC246851721b,2023-11-20,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/EPIC246851721b_1411_2023-11-20_Altair1999_1568_Clear
 TOI-2154b,2023-11-20,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/TOI-2154b_2281_2023-11-20_Altair1999_1589_Lum
+EPIC246851721b,2023-11-20,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/EPIC246851721b_1411_2023-11-20_Altair1999_1568_Clear
 TOI-2046b,2023-11-21,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/TOI-2046b_5827_2023-11-21_Altair1999_1589_Lum
 K2-29b,2023-11-22,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/K2-29b_2677_2023-11-22_Altair1999_1568_Clear
 WASP-32b,2023-11-24,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-32b_3210_2023-11-24_Altair1999_1589_Lum
@@ -60,26 +60,25 @@ Gaia-1b,2024-02-11,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/dat
 TOI-2154b,2024-02-12,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/TOI-2154b_2303_2024-02-12_Altair1999_1568_R
 HAT-P-69b,2024-02-12,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/HAT-P-69b_1840_2024-02-12_Altair1999_1323_B
 WASP-49b,2024-02-13,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-49b_3166_2024-02-13_Altair1999_1323_B
-TOI-1728b,2024-02-14,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-1728b_2523_2024-02-14_KMSHO_1635_V
 XO-2Nb,2024-02-14,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/XO-2Nb_3367_2024-02-14_Altair1999_1568_B
+TOI-1728b,2024-02-14,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-1728b_2523_2024-02-14_KMSHO_1635_V
 GJ3470b,2024-03-08,Kuo-Pin Huang,Remote KMSH observatory,https://www.exoclock.space/database/observations/GJ3470b_2647_2024-03-08_kphuang_2112_R
 HAT-P-22b,2024-03-08,Hao-Yuan Duan,"Lulin Observatory, Taiwan",https://www.exoclock.space/database/observations/HAT-P-22b_2749_2024-03-08_hyduan_2152_I
-HAT-P-36b,2024-03-12,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/HAT-P-36b_6657_2024-03-12_Altair1999_1568_R
-WASP-104b,2024-03-12,Hao-Yuan Duan,"Lulin Observatory, Taiwan",https://www.exoclock.space/database/observations/WASP-104b_5034_2024-03-12_hyduan_2152_I
 WASP-104b,2024-03-12,YingLin Chen,CYGSH_Obseratory,https://www.exoclock.space/database/observations/WASP-104b_5034_2024-03-12_fredchen0930_1670_Clear
+HAT-P-36b,2024-03-12,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/HAT-P-36b_6657_2024-03-12_Altair1999_1568_R
 WASP-104b,2024-03-12,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-104b_5034_2024-03-12_KMSHO_1635_R
-HAT-P-30b,2024-03-19,Ting-Shuo Yeh,TCFSH Observatory,https://www.exoclock.space/database/observations/HAT-P-30b_3146_2024-03-19_TCFSH_Obs_1371_R
+WASP-104b,2024-03-12,Hao-Yuan Duan,"Lulin Observatory, Taiwan",https://www.exoclock.space/database/observations/WASP-104b_5034_2024-03-12_hyduan_2152_I
 WASP-104b,2024-03-19,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-104b_5038_2024-03-19_KMSHO_1635_R
-WASP-85Ab,2024-03-20,Hao-Yuan Duan,"Taipei Astronomical Museum, Taiwan",https://www.exoclock.space/database/observations/WASP-85Ab_3330_2024-03-20_hyduan_2184_R
 WASP-43b,2024-03-20,Hao-Yuan Duan,"Lulin Observatory, Taiwan",https://www.exoclock.space/database/observations/WASP-43b_10873_2024-03-20_hyduan_2152_I
+WASP-85Ab,2024-03-20,Hao-Yuan Duan,"Taipei Astronomical Museum, Taiwan",https://www.exoclock.space/database/observations/WASP-85Ab_3330_2024-03-20_hyduan_2184_R
 WASP-43b,2024-03-25,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-43b_10879_2024-03-25_Altair1999_1323_Lum
 Qatar-6b,2024-04-02,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/Qatar-6b_2526_2024-04-02_Altair1999_1568_R
-Qatar-6b,2024-04-02,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/Qatar-6b_2526_2024-04-02_Altair1999_1323_Lum
 Qatar-1b,2024-04-02,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/Qatar-1b_6238_2024-04-02_Altair1999_1323_Lum
+Qatar-6b,2024-04-02,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/Qatar-6b_2526_2024-04-02_Altair1999_1323_Lum
 WASP-103b,2024-04-03,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/WASP-103b_9571_2024-04-03_Altair1999_1568_Clear
 WASP-92b,2024-05-08,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-92b_4089_2024-05-08_Altair1999_1323_Lum
-TrES-3b,2024-05-14,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/TrES-3b_6813_2024-05-14_Altair1999_1568_R
 WASP-24b,2024-05-14,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-24b_3801_2024-05-14_Altair1999_1323_Lum
+TrES-3b,2024-05-14,Yen-Hsing Lin,NTHU TAT,https://www.exoclock.space/database/observations/TrES-3b_6813_2024-05-14_Altair1999_1568_R
 WASP-74b,2024-06-23,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/WASP-74b_4182_2024-06-23_Altair1999_1323_Lum
 HAT-P-55b,2024-06-26,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/HAT-P-55b_2494_2024-06-26_Altair1999_1323_Lum
 TrES-3b,2024-07-04,Hao-Yuan Duan,"Lulin Observatory, Taiwan",https://www.exoclock.space/database/observations/TrES-3b_6852_2024-07-04_hyduan_2152_B
@@ -102,11 +101,11 @@ WASP-76b,2024-09-15,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.
 WASP-156b,2024-10-05,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-156b_2357_2024-10-05_Altair1999_2435_R
 GPX-1b,2024-10-09,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/GPX-1b_5186_2024-10-09_Altair1999_2435_Clear
 KELT-1b,2024-10-10,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/KELT-1b_7432_2024-10-10_Altair1999_1323_Lum
-HAT-P-32b,2024-10-11,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-32b_4209_2024-10-11_Altair1999_2435_Lum
 WASP-52b,2024-10-11,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-52b_5172_2024-10-11_KMSHO_1635_R
+HAT-P-32b,2024-10-11,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-32b_4209_2024-10-11_Altair1999_2435_Lum
 Gaia-1b,2024-10-12,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/Gaia-1b_2965_2024-10-12_Altair1999_2435_Lum
-HAT-P-53b,2024-10-14,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-53b_4615_2024-10-14_Altair1999_2435_Lum
 HAT-P-53b,2024-10-14,Yen-Hsing Lin,NTHU Observatory,https://www.exoclock.space/database/observations/HAT-P-53b_4615_2024-10-14_Altair1999_1323_Lum
+HAT-P-53b,2024-10-14,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-53b_4615_2024-10-14_Altair1999_2435_Lum
 WASP-12b,2024-10-17,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-12b_8297_2024-10-17_Altair1999_2435_Lum
 HAT-P-62b,2024-10-18,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-62b_3423_2024-10-18_Altair1999_2435_Clear
 CoRoT-1b,2024-10-20,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/CoRoT-1b_6003_2024-10-20_Altair1999_2435_Lum
@@ -122,27 +121,27 @@ K2-34b,2024-11-25,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.sp
 GPX-1b,2024-11-27,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/GPX-1b_5214_2024-11-27_KMSHO_1635_R
 HATS-42b,2024-11-27,Hao-Yuan Duan,"Lulin, Taiwan",https://www.exoclock.space/database/observations/HATS-42b_3968_2024-11-27_hyduan_2566_I
 HAT-P-33b,2024-11-27,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-33b_2618_2024-11-27_Altair1999_2435_Lum
-WASP-33b,2024-11-28,Ting-Shuo Yeh,TCFSH Observatory,https://www.exoclock.space/database/observations/WASP-33b_7458_2024-11-28_TCFSH_Obs_1371_R
 K2-34b,2024-11-28,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/K2-34b_3037_2024-11-28_Altair1999_2435_Lum
-TOI-3714b,2024-11-29,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-3714b_4222_2024-11-29_KMSHO_1635_R
 TOI-3714b,2024-11-29,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/TOI-3714b_4222_2024-11-29_Altair1999_2435_Lum
+TOI-3714b,2024-11-29,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-3714b_4222_2024-11-29_KMSHO_1635_R
 HAT-P-25b,2024-11-30,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-25b_2491_2024-11-30_Altair1999_2435_Lum
-HAT-P-52b,2024-12-01,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/HAT-P-52b_3305_2024-12-01_KMSHO_1635_R
 TOI-3714b,2024-12-01,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-3714b_4223_2024-12-01_KMSHO_1635_R
+HAT-P-52b,2024-12-01,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/HAT-P-52b_3305_2024-12-01_KMSHO_1635_R
 K2-29b,2024-12-04,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/K2-29b_2793_2024-12-04_KMSHO_1635_R
 Gaia-1b,2024-12-06,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/Gaia-1b_2983_2024-12-06_Altair1999_2435_Lum
+NGTS-10b,2024-12-08,Chi-Yun Chen,Lulin Observatory,https://www.exoclock.space/database/observations/NGTS-10b_11876_2024-12-08_Denny3908_2902_R
 K2-121b,2024-12-09,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/K2-121b_1756_2024-12-09_Altair1999_2435_Lum
 XO-2Nb,2024-12-16,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/XO-2Nb_3484_2024-12-16_KMSHO_1635_R
-HAT-P-32b,2024-12-19,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/HAT-P-32b_4241_2024-12-19_KMSHO_1635_R
 WASP-43b,2024-12-19,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-43b_11210_2024-12-19_KMSHO_1635_R
+HAT-P-32b,2024-12-19,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/HAT-P-32b_4241_2024-12-19_KMSHO_1635_R
 KELT-7b,2024-12-20,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/KELT-7b_3334_2024-12-20_KMSHO_1635_R
 KELT-19Ab,2024-12-21,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/KELT-19Ab_1977_2024-12-21_KMSHO_1635_R
 K2-34b,2024-12-28,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/K2-34b_3047_2024-12-28_KMSHO_1635_R
 HAT-P-42b,2024-12-28,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-42b_1966_2024-12-28_Altair1999_2435_Lum
-TOI-2364b,2024-12-29,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/TOI-2364b_2271_2024-12-29_Altair1999_2435_Lum
 WASP-85Ab,2024-12-29,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-85Ab_3437_2024-12-29_Altair1999_2435_Lum
-CoRoT-5b,2024-12-30,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/CoRoT-5b_2261_2024-12-30_Altair1999_2435_Lum
+TOI-2364b,2024-12-29,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/TOI-2364b_2271_2024-12-29_Altair1999_2435_Lum
 TOI-628b,2024-12-30,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/TOI-628b_2677_2024-12-30_KMSHO_1635_R
+CoRoT-5b,2024-12-30,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/CoRoT-5b_2261_2024-12-30_Altair1999_2435_Lum
 CoRoT-1b,2025-01-02,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/CoRoT-1b_6052_2025-01-02_KMSHO_1635_R
 K2-34b,2025-01-03,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/K2-34b_3049_2025-01-03_KMSHO_1635_R
 WASP-104b,2025-01-06,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-104b_5205_2025-01-06_KMSHO_1635_R
@@ -150,13 +149,13 @@ XO-2Nb,2025-01-06,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/databa
 K2-34b,2025-01-06,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/K2-34b_3050_2025-01-06_Altair1999_2435_Lum
 GPX-1b,2025-01-08,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/GPX-1b_5238_2025-01-08_KMSHO_1635_R
 WASP-84b,2025-01-08,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-84b_1072_2025-01-08_KMSHO_1635_R
-WASP-43b,2025-01-10,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-43b_11237_2025-01-10_KMSHO_1635_R
 WASP-36b,2025-01-10,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-36b_5946_2025-01-10_KMSHO_1635_R
-HAT-P-13b,2025-01-12,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-13b_3135_2025-01-12_Altair1999_2435_Lum
+WASP-43b,2025-01-10,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-43b_11237_2025-01-10_KMSHO_1635_R
 K2-34b,2025-01-12,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/K2-34b_3052_2025-01-12_KMSHO_1635_R
+HAT-P-13b,2025-01-12,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-13b_3135_2025-01-12_Altair1999_2435_Lum
 K2-405b,2025-01-12,Yen-Hsing Lin,Lulin Observatory,https://www.exoclock.space/database/observations/K2-405b_2661_2025-01-12_Altair1999_2155_R
-WASP-36b,2025-01-13,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-36b_5948_2025-01-13_KMSHO_1635_R
 WASP-104b,2025-01-13,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-104b_5209_2025-01-13_Altair1999_2606_R
+WASP-36b,2025-01-13,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/WASP-36b_5948_2025-01-13_KMSHO_1635_R
 WASP-34b,2025-01-16,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-34b_2118_2025-01-16_Altair1999_2606_R
 NGTS-9b,2025-01-16,Yen-Hsing Lin,Lulin Observatory,https://www.exoclock.space/database/observations/NGTS-9b_2062_2025-01-16_Altair1999_2155_R
 HAT-P-21b,2025-01-16,Lee YuHsien,KMSH Observatory,https://www.exoclock.space/database/observations/HAT-P-21b_2217_2025-01-16_KMSHO_1635_R
@@ -167,3 +166,11 @@ TOI-532b,2025-02-18,Yen-Hsing Lin,Lulin Observatory,https://www.exoclock.space/d
 K2-19b,2025-02-19,Yen-Hsing Lin,Lulin Observatory,https://www.exoclock.space/database/observations/K2-19b_1159_2025-02-19_Altair1999_2155_R
 WASP-36b,2025-03-08,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-36b_5983_2025-03-08_Altair1999_2435_Lum
 Qatar-6b,2025-03-08,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/Qatar-6b_2623_2025-03-08_Altair1999_2435_Lum
+HAT-P-36b,2025-03-20,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-36b_6938_2025-03-20_Altair1999_2435_Lum
+Qatar-6b,2025-03-22,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/Qatar-6b_2627_2025-03-22_Altair1999_2435_Lum
+WASP-43b,2025-03-22,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-43b_11324_2025-03-22_Altair1999_2435_Lum
+WASP-16b,2025-03-24,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-16b_2954_2025-03-24_Altair1999_2435_Lum
+K2-140b,2025-03-26,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/K2-140b_1402_2025-03-26_Altair1999_2435_V
+WASP-135b,2025-04-10,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/WASP-135b_6587_2025-04-10_Altair1999_2435_Lum
+HAT-P-23b,2025-06-30,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/HAT-P-23b_7677_2025-06-30_Altair1999_2435_Lum
+Kepler-17b,2025-07-01,Yen-Hsing Lin,Starry House Observatory,https://www.exoclock.space/database/observations/Kepler-17b_6268_2025-07-01_Altair1999_2435_Lum
